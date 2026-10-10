@@ -1,4 +1,4 @@
-<h1 align="center">Priyanka Anand</h1>
+<img width="100%" src="https://raw.githubusercontent.com/priyankaanandd/priyankaanandd/main/assets/profile-banner.svg" alt="Priyanka Anand - Backend and GenAI Developer" />
 
 <p align="center">
   <strong>Software Engineering Intern @ Fidelity International · Backend & GenAI Developer</strong>
@@ -45,9 +45,19 @@ Production-style URL shortener with NanoID links, redirects, and click analytics
 
 - Node.js, Express, MongoDB, REST APIs
 
-## Technical focus
+## Tech stack
 
-`Java` · `Spring Boot` · `Node.js` · `Express` · `React` · `PostgreSQL` · `MongoDB` · `REST APIs` · `OAuth 2.0` · `WebSockets` · `RAG` · `LangChain` · `LangGraph` · `pgvector`
+**Languages & core**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+**Backend, data & realtime**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+
+**AI & developer tools**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/LLM%20%26%20RAG-412991?style=flat&logo=openai&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## Highlights
 
